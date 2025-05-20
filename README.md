@@ -23,7 +23,8 @@
 - **JavaScript**
 - **Netlify** (for deployment)
 
----## 🔮 Future Plans & Scope
+
+## 🔮 Future Plans & Scope
 
 - 🔧 **Service Detail Pages** – Expand each service into its own dedicated page
 - 📝 **Blog Section** – Share updates, case studies, and web tips
